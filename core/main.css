@@ -85,7 +85,7 @@ body,
 }
 /* Scrollbar */
 *::-webkit-scrollbar {
-    width: 14px !important;
+    width: 10px !important;
 } 
 *::-webkit-scrollbar-track {
     border-radius: var(--border-radius-large) !important;
