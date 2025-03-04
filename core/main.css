@@ -83,14 +83,6 @@ body,
 .container_a4d4d9 {
     background-color: var(--background);
 }
-
-
-/* Fonts */
-::-webkit-input-placeholder, * {
-    font-family: "Be Vietnam Pro" !important;
-}
-
-
 /* Scrollbar */
 *::-webkit-scrollbar {
     width: 14px !important;
